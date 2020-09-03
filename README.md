@@ -7,7 +7,7 @@ In addition to evaluating the proposed method on benchmark depth completion data
 
 ## Network OverView
 
-
+![Network Architecture](network.png)
 
 ### Acknowledgments
 
