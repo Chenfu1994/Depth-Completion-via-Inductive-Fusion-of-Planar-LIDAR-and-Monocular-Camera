@@ -6,7 +6,7 @@ Modern high-definition LIDAR is expensive for commercial autonomous driving vehi
 In addition to evaluating the proposed method on benchmark depth completion datasets including NYUDepthV2 and KITTI, we also test the proposed method on a simulated planar LIDAR dataset. Our method shows promising results compared to previous approaches on both the benchmark datasets and simulated dataset with various 3D densities.
 
 ## Network OverView
-
+Detailed architecture of proposed inductive late-fusion network. The red and blue blocks indicate the context feature extraction network and depth feature extraction network. The corresponding Residual Block (RB) and Residual UpProjection Block (ReUpProj) are shown in the green blocks. The proposed inductive late-fusion block is shown in the yellow blocks.
 ![Network Architecture](network.png)
 
 ### Acknowledgments
