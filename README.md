@@ -1,4 +1,4 @@
-# Depth-Completion-via-Inductive-Fusion-of-Planar-LIDAR-and-Monocular-Camera
+# Depth Completion via Inductive Fusion of Planar LIDAR and Monocular Camera
 
 ## Abstract
 
