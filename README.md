@@ -2,7 +2,7 @@
 
 ## Paper
 
-[Pre-print](http://arxiv.org/abs/2009.01875)
+[Preprint](http://arxiv.org/abs/2009.01875)
 
 ## Abstract
 
